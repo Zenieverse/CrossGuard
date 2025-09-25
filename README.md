@@ -3,6 +3,7 @@ CrossGuard watches on-chain liquidity and price events across DEXs and chains an
 
 https://poe.com/CrossGuard
 
+https://vimeo.com/1121830995
 
 Mission of CrossGuard:
 Our mission is to protect and stabilize on-chain liquidity by deploying autonomous, reactive smart contracts that monitor, detect, and rebalance in real time.
