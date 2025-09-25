@@ -4,10 +4,9 @@ CrossGuard watches on-chain liquidity and price events across DEXs and chains an
 https://poe.com/CrossGuard
 
 
-Vision of CrossGuard
-CrossGuard envisions a self-sustaining, trustless liquidity defense layer for decentralized finance, where markets remain liquid, efficient, and fair without reliance on centralized keepers or manual interventions.
-By embedding Reactive Smart Contracts (RSCs) into the core of liquidity infrastructure, CrossGuard ensures that AMMs, vaults, and cross-chain pools are always protected against volatility, arbitrage extraction, and liquidity drain.
-Our long-term vision is to establish autonomous, DAO-governed liquidity sentinels that operate indefinitely, powered by REACT tokens, securing the backbone of DeFi and enabling a future where users and protocols alike can trust liquidity to always be available — safely and fairly.
+Mission of CrossGuard
+Our mission is to protect and stabilize on-chain liquidity by deploying autonomous, reactive smart contracts that monitor, detect, and rebalance in real time.
+We aim to eliminate the inefficiencies of centralized keepers, reduce arbitrage extraction, and ensure that every user, trader, and protocol has access to fair and resilient liquidity — across chains, at all times.
 
 Vision of CrossGuard
 CrossGuard envisions a self-sustaining, trustless liquidity defense layer for decentralized finance, where markets remain liquid, efficient, and fair without reliance on centralized keepers or manual interventions.
