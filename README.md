@@ -1,10 +1,22 @@
-# CrossGuard
+# CrossGuard - Reactive Cross-Chain Liquidity Sentinel & Auto-Balancer
 CrossGuard watches on-chain liquidity and price events across DEXs and chains and automatically triggers safe rebalancing actions (e.g., move liquidity, rebalance pools, and open hedges) through Reactive Smart Contracts (RSCs) so pools and AMMs remain liquid and arbitrage is reduced — indefinitely, as long as the system is funded with REACT
 
 
 
-CrossGuard — Reactive Cross-Chain Liquidity Sentinel & Auto-Balancer
-One-sentence: CrossGuard watches on-chain liquidity and price events across DEXs and chains and automatically triggers safe rebalancing actions (e.g., move liquidity, rebalance pools, and open hedges) through Reactive Smart Contracts (RSCs) so pools and AMMs remain liquid and arbitrage is reduced — indefinitely, as long as the system is funded with REACT for callbacks.
+What it does:
+CrossGuard continuously monitors liquidity and price conditions across decentralized exchanges (DEXs) and chains. When volatility or imbalance is detected, it triggers Reactive Smart Contracts (RSCs) to automatically execute protective actions:
+Rebalance pools to prevent depletion
+Move liquidity to safer venues
+Open hedges against exposure
+Why it matters:
+Keeps pools and AMMs liquid at all times
+Reduces arbitrage extraction and MEV
+Minimizes slippage and failed trades
+Operates indefinitely, as long as fueled with REACT tokens
+Core Innovation:
+CrossGuard is the first on-chain, self-sustaining liquidity defense system. Instead of relying on centralized keepers or manual interventions, it uses RSCs that “react” instantly and autonomously to market conditions.
+
+CrossGuard watches on-chain liquidity and price events across DEXs and chains and automatically triggers safe rebalancing actions (e.g., move liquidity, rebalance pools, and open hedges) through Reactive Smart Contracts (RSCs) so pools and AMMs remain liquid and arbitrage is reduced — indefinitely, as long as the system is funded with REACT for callbacks.
 Why this use case needs Reactive Smart Contracts
 Liquidity imbalances and oracle price shocks are time-sensitive. Traditional smart contracts are passive; external keepers or bots must poll and act. This centralizes execution and increases latency.
 Reactive Smart Contracts let you subscribe to on-chain events (e.g., liquidity changed, price crossed threshold) and have the RSC call back to a rebalancer contract deterministically and automatically, paying for gas via REACT. That gives low-latency, decentralized, incentiveed automation with on-chain accountability — impossible to do robustly with passive contracts and off-chain bots.
