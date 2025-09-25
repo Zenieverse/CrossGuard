@@ -1,6 +1,8 @@
 # CrossGuard - Reactive Cross-Chain Liquidity Sentinel & Auto-Balancer
 CrossGuard watches on-chain liquidity and price events across DEXs and chains and automatically triggers safe rebalancing actions (e.g., move liquidity, rebalance pools, and open hedges) through Reactive Smart Contracts (RSCs) so pools and AMMs remain liquid and arbitrage is reduced — indefinitely, as long as the system is funded with REACT
 
+https://poe.com/CrossGuard
+
 
 <img width="1536" height="1024" alt="IMG_1284" src="https://github.com/user-attachments/assets/0cff5141-f4bc-4617-8f9a-09945b1afe29" />
 
