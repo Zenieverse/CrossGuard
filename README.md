@@ -2,6 +2,8 @@
 CrossGuard watches on-chain liquidity and price events across DEXs and chains and automatically triggers safe rebalancing actions (e.g., move liquidity, rebalance pools, and open hedges) through Reactive Smart Contracts (RSCs) so pools and AMMs remain liquid and arbitrage is reduced — indefinitely, as long as the system is funded with REACT
 
 
+<img width="1536" height="1024" alt="IMG_1284" src="https://github.com/user-attachments/assets/0cff5141-f4bc-4617-8f9a-09945b1afe29" />
+
 
 What it does:
 CrossGuard continuously monitors liquidity and price conditions across decentralized exchanges (DEXs) and chains. When volatility or imbalance is detected, it triggers Reactive Smart Contracts (RSCs) to automatically execute protective actions:
