@@ -59,7 +59,7 @@ Node.js v18+
 Hardhat / Foundry
 RPC endpoints for EVM-compatible chains
 Installation
-git clone https://github.com/<your-org>/CrossGuard.git
+git clone https://github.com/zenieverse/CrossGuard.git
 cd CrossGuard
 npm install
 Compile & Test Contracts
