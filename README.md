@@ -16,6 +16,60 @@ CrossGuard envisions a self-sustaining, trustless liquidity defense layer for de
 By embedding Reactive Smart Contracts (RSCs) into the core of liquidity infrastructure, CrossGuard ensures that AMMs, vaults, and cross-chain pools are always protected against volatility, arbitrage extraction, and liquidity drain.
 Our long-term vision is to establish autonomous, DAO-governed liquidity sentinels that operate indefinitely, powered by REACT tokens, securing the backbone of DeFi and enabling a future where users and protocols alike can trust liquidity to always be available — safely and fairly.
 
+🛡️ CrossGuard
+Reactive Cross-Chain Liquidity Sentinel & Auto-Balancer
+🌐 Overview
+CrossGuard is an on-chain liquidity defense system that continuously monitors price and liquidity across DEXs and chains. When imbalances occur, it automatically triggers Reactive Smart Contracts (RSCs) to protect liquidity pools by:
+Rebalancing pools
+Moving liquidity to safer venues
+Opening hedges against volatility
+Powered by the REACT token, CrossGuard ensures that AMMs and vaults remain liquid indefinitely, reducing arbitrage extraction, slippage, and failed trades.
+🚨 Problem
+Liquidity shocks cause slippage, MEV extraction, and failed trades.
+Current automation relies on off-chain keepers and centralized bots, which are slow, exploitable, and unsustainable.
+✅ Solution
+CrossGuard introduces Reactive Smart Contracts (RSCs) that:
+Continuously watch liquidity + price feeds across DEXs and chains.
+Automatically trigger protective actions when risks appear.
+Operate indefinitely as long as fueled with REACT tokens.
+🔑 Key Features
+Autonomous Protection — No centralized keepers.
+Cross-Chain Coverage — Multi-chain liquidity defense.
+Reduced Arbitrage & MEV — Markets remain fair and efficient.
+Composable — Works with AMMs, vaults, LSTs, and LP managers.
+Perpetual Operation — As long as funded, it never stops.
+🧩 Architecture
+Watch — Monitor liquidity and price feeds across chains.
+Detect — Identify shocks, imbalances, and arbitrage risk.
+React — Trigger RSCs to rebalance or protect liquidity.
+Rebalance — Restore safe pool states and reduce risk.
+(See included flow diagram in /docs/assets/flow.png)
+🔗 Token Utility (REACT)
+Fuels RSC execution costs.
+Provides governance for liquidity defense strategies.
+Aligns incentives for sustainable protection.
+🚀 Roadmap
+ MVP: Single-chain prototype with RSC monitoring.
+ Cross-chain liquidity sentinel deployment.
+ DAO-governed strategy guardrails.
+ Ecosystem integrations with major AMMs and vault protocols.
+🛠️ Getting Started
+Prerequisites
+Node.js v18+
+Hardhat / Foundry
+RPC endpoints for EVM-compatible chains
+Installation
+git clone https://github.com/<your-org>/CrossGuard.git
+cd CrossGuard
+npm install
+Compile & Test Contracts
+npx hardhat compile
+npx hardhat test
+🤝 Contributing
+We welcome contributions! Please open issues and PRs, or join our discussions to shape liquidity defense standards in DeFi.
+📜 License
+MIT License. See LICENSE for details.
+
 <img width="1536" height="1024" alt="IMG_1284" src="https://github.com/user-attachments/assets/0cff5141-f4bc-4617-8f9a-09945b1afe29" />
 
 
