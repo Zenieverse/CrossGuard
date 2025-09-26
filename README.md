@@ -3,6 +3,8 @@ CrossGuard watches on-chain liquidity and price events across DEXs and chains an
 
 https://poe.com/CrossGuard
 
+https://gemini.google.com/share/eb902202a5fd
+
 https://vimeo.com/1121830995
 
 Mission of CrossGuard:
